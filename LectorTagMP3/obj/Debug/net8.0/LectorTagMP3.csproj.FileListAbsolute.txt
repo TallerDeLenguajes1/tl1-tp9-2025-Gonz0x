@@ -1,0 +1,15 @@
+C:\tl1-tp9-2025-Gonz0x\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\tl1-tp9-2025-Gonz0x\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.AssemblyInfoInputs.cache
+C:\tl1-tp9-2025-Gonz0x\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.AssemblyInfo.cs
+C:\tl1-tp9-2025-Gonz0x\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.csproj.CoreCompileInputs.cache
+C:\tl1-tp9-2025-Gonz0x\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.sourcelink.json
+C:\tl1-tp9-2025-Gonz0x\LectorTagMP3\bin\Debug\net8.0\LectorTagMP3.exe
+C:\tl1-tp9-2025-Gonz0x\LectorTagMP3\bin\Debug\net8.0\LectorTagMP3.deps.json
+C:\tl1-tp9-2025-Gonz0x\LectorTagMP3\bin\Debug\net8.0\LectorTagMP3.runtimeconfig.json
+C:\tl1-tp9-2025-Gonz0x\LectorTagMP3\bin\Debug\net8.0\LectorTagMP3.dll
+C:\tl1-tp9-2025-Gonz0x\LectorTagMP3\bin\Debug\net8.0\LectorTagMP3.pdb
+C:\tl1-tp9-2025-Gonz0x\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.dll
+C:\tl1-tp9-2025-Gonz0x\LectorTagMP3\obj\Debug\net8.0\refint\LectorTagMP3.dll
+C:\tl1-tp9-2025-Gonz0x\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.pdb
+C:\tl1-tp9-2025-Gonz0x\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.genruntimeconfig.cache
+C:\tl1-tp9-2025-Gonz0x\LectorTagMP3\obj\Debug\net8.0\ref\LectorTagMP3.dll
